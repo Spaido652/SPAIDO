@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your Gmax session-id here.",
+      "description": "GMAX-MD~vdwhCaxB#eV9CF_JLSQ763plgRxXDbCgFCyV0cDaTn_zMxuJfRek.",
       "required": true,
       "value": ""
     },  
@@ -84,9 +84,9 @@
 }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "꧁BÏG~SPÅíDØ꧂.",
       "required": false,
-      "value": "2557538534XXXX"
+      "value": "09084726896"
 
     }, 
 
